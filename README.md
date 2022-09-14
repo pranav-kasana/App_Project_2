@@ -19,4 +19,4 @@ Build A Grocery Android App - Project 2
 ![photo_2022-09-13_13-51-51](https://user-images.githubusercontent.com/83489094/189850503-3d5f6c16-ad6a-4cc4-a965-eb0ef2e8f925.jpg)
 ![photo_2022-09-13_13-51-55](https://user-images.githubusercontent.com/83489094/189850535-c992481d-9cb0-4fd9-bfa7-97cc79a535d2.jpg)
 
-# SIP_2
+# SmartInternz_Project_2
